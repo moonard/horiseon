@@ -59,12 +59,14 @@ p {
     background-position: center;
 }
 
+/* brought all elements relating to "main" together */
 main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* combined all 3 elements under single "main section" */
 main section {
     margin-bottom: 20px;
     padding: 50px;
@@ -93,6 +95,7 @@ main section h2 {
     font-size: 36px;
 }
 
+/* brought all elements relating to "aside" together */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -104,6 +107,7 @@ aside {
     background-color: #2589bd;
 }
 
+/* combined all 3 elements under single "aside section" */
 aside section {
     margin-bottom: 32px;
     color: #ffffff;
