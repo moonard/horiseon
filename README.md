@@ -10,3 +10,4 @@ Changes:
 - Cleaned up landing image; removed redundant img url
 - Combined elements in CSS file where appropriate
 - Reorganized CSS elements in hierarchial order/how they appear in the HTML file
+- Added alt text for images
